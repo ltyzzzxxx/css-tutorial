@@ -1,0 +1,17 @@
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: sans-serif;
+  /* monospace */
+  /* cursive */
+  /* Courier New */
+}
+
+p {
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+/* input, button {
+  font: inherit;
+} */
